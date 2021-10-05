@@ -4,6 +4,14 @@
 
 
 
+![certificate](https://hermes.digitalinnovation.one/certificates/cover/71F2DE11.jpg)
+
+##### Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+
+05/10/2021 13:42
+
+
+
 ![certificate](https://hermes.digitalinnovation.one/certificates/cover/45F0589D.jpg)
 
 ##### Resolvendo Desafios de Código em Java
